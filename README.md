@@ -1,3 +1,9 @@
+# Includes
+
+- react-admin
+- ra-data-json-server
+- prop-types
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
